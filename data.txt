@@ -1,0 +1,9 @@
+https://eu-central-1.aws.data.mongodb-api.com/app/data-zhnzv/endpoint/data/v1
+
+
+5YokgC5P1VKuoQvlRPiVx6EUzM77zh91W2Q7hZPJKZirHigFp1MhAOXfL5RESBHE
+
+pro-hema
+H24308134h
+
+mongodb+srv://admin-hema:H24308134h@cluster0.rnaonuf.mongodb.net/test
